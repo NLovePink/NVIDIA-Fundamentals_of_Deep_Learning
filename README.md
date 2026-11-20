@@ -19,3 +19,5 @@
 *Hardware Requirements*: Desktop or laptop computer capable of running the latest version of Chrome or Firefox. Each participant will be provided with dedicated access to a fully configured, GPU-accelerated server in the cloud.
 
 *Languages*: English, Simplified Chinese, Japanese
+
+<img width="936" height="461" alt="Screenshot (191)" src="https://github.com/user-attachments/assets/d89586f8-d7a8-40e8-af99-7ff733685fc8" />
