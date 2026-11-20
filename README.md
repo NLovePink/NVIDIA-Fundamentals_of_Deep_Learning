@@ -1,20 +1,21 @@
 # NVIDIA-Fundamentals_of_Deep_Learning
 
-*Workshop Details*
-Duration: 8 hours
+***Workshop Details***
 
-Price: $500 for public workshops, contact us for enterprise workshops.
+*Duration*: 8 hours
 
-Prerequisites: An understanding of fundamental programming concepts in Python 3, such as functions, loops, dictionaries, and arrays; familiarity with Pandas data structures; and an understanding of how to compute a regression line.
+*Price*: $500 for public workshops, contact us for enterprise workshops.
 
-Suggested materials to satisfy prerequisites: Python Beginner’s Guide.
+*Prerequisites*: An understanding of fundamental programming concepts in Python 3, such as functions, loops, dictionaries, and arrays; familiarity with Pandas data structures; and an understanding of how to compute a regression line.
 
-Technologies: Tensorflow 2 with Keras, Pandas
+*Suggested materials to satisfy prerequisites*: Python Beginner’s Guide.
 
-Assessment Type: Skills-based coding assessments evaluate students’ ability to train a deep learning model to high accuracy.
+*Technologies*: Tensorflow 2 with Keras, Pandas
 
-Certificate: Upon successful completion of the assessment, participants will receive an NVIDIA DLI certificate to recognize their subject matter competency and support professional career growth.
+*Assessment Type*: Skills-based coding assessments evaluate students’ ability to train a deep learning model to high accuracy.
 
-Hardware Requirements: Desktop or laptop computer capable of running the latest version of Chrome or Firefox. Each participant will be provided with dedicated access to a fully configured, GPU-accelerated server in the cloud.
+*Certificate*: Upon successful completion of the assessment, participants will receive an NVIDIA DLI certificate to recognize their subject matter competency and support professional career growth.
 
-Languages: English, Simplified Chinese, Japanese
+*Hardware Requirements*: Desktop or laptop computer capable of running the latest version of Chrome or Firefox. Each participant will be provided with dedicated access to a fully configured, GPU-accelerated server in the cloud.
+
+*Languages*: English, Simplified Chinese, Japanese
