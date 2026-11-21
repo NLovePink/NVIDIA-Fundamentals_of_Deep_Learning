@@ -26,5 +26,3 @@
 **PROCESS:**
 <img width="1254" height="727" alt="Screenshot (192)" src="https://github.com/user-attachments/assets/48adf8e9-f110-4fb2-bddc-cd3123d4baef" />
 <img width="1269" height="870" alt="Screenshot (193)" src="https://github.com/user-attachments/assets/cb5b5a1e-4205-480c-b368-497b656b9160" />
-
-<img width="936" height="461" alt="Screenshot (191)" src="https://github.com/user-attachments/assets/d89586f8-d7a8-40e8-af99-7ff733685fc8" />
