@@ -20,6 +20,10 @@
 
 *Languages*: English, Simplified Chinese, Japanese
 
+**RESULTS:**
+<img width="1920" height="1080" alt="Screenshot (213)" src="https://github.com/user-attachments/assets/59ea314d-078d-44e5-9b13-dbcbb2036ff3" />
+
+**PROCESS:**
 <img width="1254" height="727" alt="Screenshot (192)" src="https://github.com/user-attachments/assets/48adf8e9-f110-4fb2-bddc-cd3123d4baef" />
 <img width="1269" height="870" alt="Screenshot (193)" src="https://github.com/user-attachments/assets/cb5b5a1e-4205-480c-b368-497b656b9160" />
 
