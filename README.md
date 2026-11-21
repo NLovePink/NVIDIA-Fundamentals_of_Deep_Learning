@@ -21,7 +21,7 @@
 *Languages*: English, Simplified Chinese, Japanese
 
 **RESULTS:**
-<img width="1920" height="1080" alt="Screenshot (213)" src="https://github.com/user-attachments/assets/59ea314d-078d-44e5-9b13-dbcbb2036ff3" />
+<img width="1920" height="884" alt="Screenshot (213)" src="https://github.com/user-attachments/assets/af854d03-f92e-4545-b2c5-b0c007daede1" />
 
 **PROCESS:**
 <img width="1254" height="727" alt="Screenshot (192)" src="https://github.com/user-attachments/assets/48adf8e9-f110-4fb2-bddc-cd3123d4baef" />
